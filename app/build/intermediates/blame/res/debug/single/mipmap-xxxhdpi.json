@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/ConsumerContentProvider/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/tony/Documents/AndroidTrainning/Trainning/ConsumerContentProvider/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/ConsumerContentProvider/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/tony/Documents/AndroidTrainning/Trainning/ConsumerContentProvider/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

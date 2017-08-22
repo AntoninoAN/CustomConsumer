@@ -1,0 +1,7 @@
+#Mon Aug 21 23:49:22 EDT 2017
+base.0=/home/tony/Documents/AndroidTrainning/Trainning/ConsumerContentProvider/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1a4c6e483f487c581c80dafffed98ebff41f437
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/tony/Documents/AndroidTrainning/Trainning/ConsumerContentProvider/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9bacbc6e5c06b1a5f609a9d3668708c23974ba66/classes.dex
+base.1=/home/tony/Documents/AndroidTrainning/Trainning/ConsumerContentProvider/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9bacbc6e5c06b1a5f609a9d3668708c23974ba66
+file.0=/home/tony/Documents/AndroidTrainning/Trainning/ConsumerContentProvider/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1a4c6e483f487c581c80dafffed98ebff41f437/classes.dex
